@@ -1,0 +1,8 @@
+# Code owners for TA-app.
+#
+# The stack is still undecided. These paths set policy, so they need
+# mentor review.
+
+/.github/       @nosoypoot
+/CLAUDE.md      @nosoypoot
+/AGENTS.md      @nosoypoot
